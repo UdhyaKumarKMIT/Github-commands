@@ -1,9 +1,10 @@
-
+⁷
 
 # 📘 What is GitHub?
 
 GitHub is a cloud-based platform used to store and manage code using **Git**, a version control system.
 It helps developers **collaborate**, **track changes**, and **work together** smoothly.
+Used primarily for code sharing and version control tool.
 
 ### ✨ Why GitHub?
 
